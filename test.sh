@@ -1,3 +1,3 @@
 #!/bin/bash
-apt-get zip unzip -y
+apt install zip unzip -y
 unzip tgvcbot.zip
